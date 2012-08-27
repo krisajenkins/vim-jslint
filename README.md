@@ -25,4 +25,6 @@ So that `,m` will save, run and show any errors in one stroke.
 ## Notes
 
 There's so little code here isn't almost not worth its own plugin. But vim's
-errorformat is so obtuse that no-one should have to write this again. :-}
+`errorformat` is so obtuse that no-one should have to write this again. :-}
+
+[pathogen]: https://github.com/tpope/vim-pathogen/
