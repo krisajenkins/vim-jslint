@@ -1,6 +1,6 @@
 # vim-jslint
 
-Run :make on a JavaScript file, get JSLint messages in the quickfix buffer.
+Run `:make` on a JavaScript file, get JSLint messages in the quickfix buffer.
 
 *WARNING* The different versions of JSLint have wildly different output formats.
 This plugin targets NodeJS's version 0.1.9 (`npm install jslint -g`).
@@ -8,7 +8,7 @@ This plugin targets NodeJS's version 0.1.9 (`npm install jslint -g`).
 ## Installation
 
 * Install [Pathogen][pathogen]. (You're already using Pathogen, right?)
-* Clone this project into `~/.vim/bundle/`.
+* Clone this project into `~/.vim/bundle/vim-jslint`.
 
 ## Usage
 
